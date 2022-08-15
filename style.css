@@ -1,0 +1,49 @@
+* {
+    background-color: darkgray;
+}
+
+nav {
+    
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+.hero {
+    max-width: 100%;
+}
+
+ .the-game {
+    border-bottom: solid 1px ;
+    text-align: center;
+}
+
+.action {
+    align-content: center;
+}
+
+.mmo {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.destiny-img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+div {
+    text-align: center;
+}
+
+.classes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
